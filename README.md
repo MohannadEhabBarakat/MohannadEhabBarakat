@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a patinate ML engineer. I'm studying AI maters @ FAU and a visiting student @ McGill. You might also know me as [The curious kid](https://www.youtube.com/channel/UCrNosLE4Eh4rndjkM2L4dOA) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on foundational medical AI, open-source voice cloning, translation, and generative AI. 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open-source voice cloning, translation, and generative AI. 
