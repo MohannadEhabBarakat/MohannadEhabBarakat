@@ -11,4 +11,3 @@ I'm a patinate ML engineer. I'm studying AI maters @ FAU and a visiting student 
 - 📫 How to reach me: Mohannad.Barakat@fau.de
 - ⚡ Fun fact: I love swimming, hiking, and outdoor sports
 
-I'm also on [UpWork](https://www.upwork.com/freelancers/~01fb62a5e80d6a5a27?mp_source=share) and for bigger projects [comming soon...](https://www.upwork.com/agencies/1671224691647512576/)
